@@ -1,0 +1,8 @@
+ip,7997
+tcp,6
+udp,7991
+dns,0
+icmp,0
+http,0
+https,6
+quic,7990
